@@ -1,0 +1,47 @@
+
+		p
+		{
+			color: green;
+			font-size:50px;
+			font-family: impact;
+		}
+		img
+		{
+			width: 80%;
+		}
+		
+		a
+		{
+		text-decoration: none;
+		color: tomato;
+		font-size: 20px;
+		display: block;
+		border-bottom-color: black;
+		display: inline-block;
+
+		border-bottom: 1px solid transparent;
+		transition: 1s ease;
+		}
+
+		a:hover
+		{
+			border-bottom-color: black;
+			font-size: 100px
+		}
+		div
+		{
+		padding: 10px 10px;
+		padding-top: 10px;
+		margin: 10px
+		background-color: gold;
+		width: 50%;
+		color: red;
+
+		box-shadow: 10px 10px 
+		200px 10px red;
+		}
+
+		p
+		{
+		color: green;
+		}
